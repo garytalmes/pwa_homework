@@ -1,5 +1,9 @@
 # Unit 19 PWA Homework: Text Editor (Modified Edition)
 
+## Before anything else
+
+Do NOT include this README file in your submission! Also, you are supposed clone this repo for reference purposes only. Create a brand new repo for the homework, and then copy the files here into it (except for Assets, which isn't needed).
+
 ## Instructions
 
 The web application from which the PWA will be created has already been built for you (and was intended to be). The main goal of this homework assignment is to properly set up and configure the web app so it can function as a PWA.
@@ -16,6 +20,8 @@ In each file you will see TODO items in the comments. I've tried to give some ad
 
 - client/src-sw.js
 - client/webpack.config.js
+- client/src/database.js
+- client/src/install.js
 
 ## Things To Note
 
