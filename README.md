@@ -39,6 +39,12 @@ As you develop, you can run things using `npm start:dev`. When you think you hav
 
 Once everything works locally, deploy to Heroku and test again. You can even test on a mobile device if you want.
 
+If you need to start from scratch and remove the existing PWA:
+
+- Close the standalone browser window containing the PWA
+- Delete the PWA from your hard drive 
+- Kill the server session running in VS Code 
+- In Chrome, go to localhost:3000, the app may or may not open again. If it does, open up the dev console, go to Application -> Service Works and click the Unregister Worker link.
 
 ## Mock-Up
 
